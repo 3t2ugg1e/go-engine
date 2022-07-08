@@ -1,8 +1,8 @@
 package rpc
 
 import (
-	"github.com/esrrhs/go-engine/src/common"
-	"github.com/esrrhs/go-engine/src/loggo"
+	"github.com/3t2ugg1e/go-engine/src/common"
+	"github.com/3t2ugg1e/go-engine/src/loggo"
 	"testing"
 )
 

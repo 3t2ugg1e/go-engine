@@ -2,7 +2,7 @@ package console
 
 import (
 	"container/list"
-	"github.com/esrrhs/go-engine/src/termcolor"
+	"github.com/3t2ugg1e/go-engine/src/termcolor"
 )
 
 type EditBox struct {

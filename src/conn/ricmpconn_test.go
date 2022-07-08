@@ -2,7 +2,7 @@ package conn
 
 import (
 	"fmt"
-	"github.com/esrrhs/go-engine/src/loggo"
+	"github.com/3t2ugg1e/go-engine/src/loggo"
 	"strconv"
 	"testing"
 	"time"

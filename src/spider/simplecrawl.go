@@ -2,9 +2,9 @@ package spider
 
 import (
 	"crypto/tls"
+	"github.com/3t2ugg1e/go-engine/src/loggo"
 	"github.com/PuerkitoBio/goquery"
 	"github.com/axgle/mahonia"
-	"github.com/esrrhs/go-engine/src/loggo"
 	"net/http"
 	"strings"
 	"time"

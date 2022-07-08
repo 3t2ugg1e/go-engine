@@ -4,8 +4,7 @@ import (
 	"context"
 	"crypto/tls"
 	"errors"
-	"github.com/esrrhs/go-engine/src/common"
-	"github.com/lucas-clemente/quic-go"
+	"github.com/3t2ugg1e/go-engine/src/common"
 	"github.com/xtaci/smux"
 	"net"
 )

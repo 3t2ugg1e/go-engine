@@ -1,11 +1,11 @@
 package spider
 
 import (
+	"github.com/3t2ugg1e/go-engine/src/common"
+	"github.com/3t2ugg1e/go-engine/src/loggo"
+	"github.com/3t2ugg1e/go-engine/src/node"
 	"github.com/PuerkitoBio/goquery"
 	"github.com/axgle/mahonia"
-	"github.com/esrrhs/go-engine/src/common"
-	"github.com/esrrhs/go-engine/src/loggo"
-	"github.com/esrrhs/go-engine/src/node"
 	"golang.org/x/net/html"
 	"path/filepath"
 	"strings"
